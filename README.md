@@ -1,5 +1,5 @@
 
-> Open this page at [https://seric1237.github.io/black-and-white/](https://seric1237.github.io/black-and-white/)
+> Open this page at [https://seric1237.github.io/black-and-white-moderator/](https://seric1237.github.io/black-and-white/)
 
 ## Use as Extension
 
